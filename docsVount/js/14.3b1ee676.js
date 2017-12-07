@@ -1,0 +1,1 @@
+webpackJsonp([14],{27:function(c,o,p){c.exports=p.p+"img/markcook.c0632d9c.png"}});
